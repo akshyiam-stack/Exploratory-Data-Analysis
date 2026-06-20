@@ -245,28 +245,6 @@ ORDER BY date
 
 ---
 
-## ▶️ How to Run This Project
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/ipl-cricket-analysis-2025.git
-cd ipl-cricket-analysis-2025
-
-# 2. Install dependencies
-pip install pandas numpy matplotlib seaborn jupyter
-
-# 3. Download the dataset from Kaggle
-# https://www.kaggle.com/datasets/chaitu20/ipl-dataset2008-2025
-# Place the CSV file inside a data/ folder
-
-# 4. Open the notebook
-jupyter notebook notebooks/ipl_eda.ipynb
-
-# 5. Run all cells from top to bottom
-```
-
----
-
 ## 📚 Skills Demonstrated
 
 - **Data wrangling** — handling nulls, duplicates, type conversions, column standardisation
@@ -283,12 +261,6 @@ jupyter notebook notebooks/ipl_eda.ipynb
 **Akshay**
 B.Tech — Electronics and Communication Engineering
 Aspiring Data Analyst | Data Science Enthusiast
-
----
-
-## 📄 License
-
-This project is open source under the [MIT License](LICENSE).
 
 ---
 
